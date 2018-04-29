@@ -1,5 +1,5 @@
 ---
-title: "Markdown Common Elements"
+title: "This is sample blog"
 layout: post
 date: 2016-02-24 22:44
 image: /assets/images/markdown.jpg
@@ -10,7 +10,7 @@ tag:
 star: true
 category: blog
 author: johndoe
-description: Markdown summary with different options
+description: This is sample blog
 ---
 
 ## Summary:

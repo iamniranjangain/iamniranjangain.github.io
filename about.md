@@ -34,13 +34,12 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li>Python</li>
 	<li>MySQL - MongoDB</li>
 	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://iamniranjangain.github.io">Sample1</a></li>
+	<li><a href="https://iamniranjangain.github.io">Sample2</a></li>
+	<li><a href="https://iamniranjangain.github.io">Sample3</a></li>
 </ul>

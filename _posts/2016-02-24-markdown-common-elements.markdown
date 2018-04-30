@@ -1,5 +1,5 @@
 ---
-title: "This is sample blog"
+title: "Update Soon."
 layout: post
 date: 2016-02-24 22:44
 image: /assets/images/markdown.jpg

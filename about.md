@@ -27,4 +27,4 @@ I enjoy using my obsessive attention to detail, my unequivocal love for making t
 
 <h2>Get in Touch</h2>
     
-I'm available for remote work - if you would like to build something together, [get in touch?](http://github.com/sergiokopplin/indigo/issues).
+I'm available for remote work - if you would like to build something together, [get in touch?](https://mail.google.com/mail/u/0/#imp?compose=163169176a649a8b).

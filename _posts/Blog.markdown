@@ -1,3 +1,3 @@
 ---
-title: "update Soon."
+title: "Update Soon."
 layout: post

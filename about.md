@@ -4,19 +4,10 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hey, I’m Niranjan Gain ;) I’m a Tech enthusiast/Digital Marketer by profession Android Developer from india.
+I enjoy using my obsessive attention to detail, my unequivocal love for making things,I like to build things – usually with       technology, and a side of grit, I’ve always sought out opportunities and challenges that are meaningful to me, I've never stopped engaging my passion to help others and solve problems, I enjoy turning complex problems into simple, I’m excited to make a big impact at a high growth.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I enjoy each aspect, and love building sites & mobile apps from start to finish, for clients all over the world.</p>
 
 <h2>Skills</h2>
 
@@ -36,10 +27,8 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li>Scrum and Kanban</li>
 </ul>
 
-<h2>Projects</h2>
+<h2>Get in Touch</h2>
 
-<ul>
-	<li><a href="https://iamniranjangain.github.io">Sample1</a></li>
-	<li><a href="https://iamniranjangain.github.io">Sample2</a></li>
-	<li><a href="https://iamniranjangain.github.io">Sample3</a></li>
-</ul>
+    ---
+    
+I'm available for remote work - if you would like to build something together, [get in touch?](http://github.com/sergiokopplin/indigo/issues).

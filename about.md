@@ -27,5 +27,5 @@ I've never stopped engaging my passion to help others and solve problems, I enjo
 </ul>
 
 <h2>Get in Touch</h2>
-    
-I'm available for remote work - if you would like to build something together, [get in touch?](mailto:imiranjangain@email.com?subject=What's%20Subject?&body=What%20is%20your%20Message?).
+
+I'm available for remote work - if you would like to build something together, [Emaile Me](mailto:imiranjangain@email.com? subject=What's%20Subject?&body=What%20is%20your%20Message?).

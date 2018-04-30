@@ -28,4 +28,4 @@ I've never stopped engaging my passion to help others and solve problems, I enjo
 
 <h2>Get in Touch</h2>
 
-I'm available for remote work - if you would like to build something together, [get in touch](mailto:imiranjangain@email.com?subject=Your%20subject?&body=Hi,%20type%20your%20Message%20here!).
+I'm available for remote work - if you would like to build something together, [get in touch](mailto:imniranjangain@email.com?subject=Your%20subject?&body=Hi,%20type%20your%20Message%20here!).

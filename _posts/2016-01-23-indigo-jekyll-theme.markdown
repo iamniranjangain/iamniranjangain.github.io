@@ -1,5 +1,5 @@
 ---
-title: "Projects will Update Soon"
+title: "Projects will Update Soon."
 layout: post
 date: 2018-4-29 22:10
 tag: Project
